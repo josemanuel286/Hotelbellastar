@@ -1,0 +1,31 @@
+p {
+    color: whitesmoke;
+    margin-left: 10px;
+}
+body {
+    background-image: url(files/background.jpg);
+}
+h2 {
+    color: antiquewhite;
+    margin-left: 10px;
+}
+.titulo {
+    text-align: center;
+    color: yellow;
+}
+.logo {
+    width: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 60px;
+}
+.content {
+    background-color: #101010;
+    display: block;
+    padding: 10px;
+    max-width: 960px;
+    border-radius: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
